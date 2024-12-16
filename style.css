@@ -144,13 +144,9 @@ button:hover {
 }
 
 /* Edit Task */
-/* .visible-input {
-    display: none;
-} */
 .input-hidden {
     display: none;
 }
-
 .input-visible {
     display: inline-block;
     width: 224px;
